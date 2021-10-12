@@ -7,7 +7,7 @@ const farms: FarmConfig[] = [
     risk: 5,
     lpSymbol: 'COVID-USDC LP',
     lpAddresses: {
-      137: '0x74c8ae2d5fb8390e936e39d196e80c1181da6bdf',
+      137: '0x0c79191f863e6434eef3699ec15a4c99ce66fdef',
     },
     tokenSymbol: 'COVID',
     tokenAddresses: {
@@ -21,7 +21,7 @@ const farms: FarmConfig[] = [
     risk: 5,
     lpSymbol: 'COVID-WMATIC LP',
     lpAddresses: {
-      137: '0xf8262a4791d35c99907354b6e614caf035a8f6a7',
+      137: '0x0c0d657f5678fd3ca9085fc689d10199548aa1c7',
     },
     tokenSymbol: 'WMATIC',
     tokenAddresses: {
@@ -36,7 +36,7 @@ const farms: FarmConfig[] = [
     risk: 5,
     lpSymbol: 'COVID-WETH LP',
     lpAddresses: {
-      137: '0x145b9c82971dfaa18a12969169c428159d738bf6',
+      137: '0x05718ab8f744a6213516c8793b005006267da09d',
     },
     tokenSymbol: 'WETH',
     tokenAddresses: {
@@ -129,7 +129,7 @@ const farms: FarmConfig[] = [
     isTokenOnly: true,
     lpSymbol: 'COVID',
     lpAddresses: {
-      137: '0x74c8ae2d5fb8390e936e39d196e80c1181da6bdf'
+      137: '0x0c79191f863e6434eef3699ec15a4c99ce66fdef'
     },
     tokenSymbol: 'COVID',
     tokenAddresses: {
@@ -276,7 +276,7 @@ const farms: FarmConfig[] = [
     isTokenOnly: true,
     lpSymbol: 'USDC',
     lpAddresses: {
-      137: '0x74c8ae2d5fb8390e936e39d196e80c1181da6bdf'
+      137: '0x0c79191f863e6434eef3699ec15a4c99ce66fdef'
     },
     tokenSymbol: 'USDC',
     tokenAddresses: {
